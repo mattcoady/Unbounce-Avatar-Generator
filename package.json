@@ -1,0 +1,26 @@
+{
+  "name": "unbounce-avatars",
+  "version": "0.0.8",
+  "description": "Avatar Builder for Unbounce Employees",
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "6.3.6",
+    "css-declaration-sorter": "1.4.0",
+    "css-loader": "0.23.1",
+    "cssnano": "3.5.2",
+    "jquery": "2.2.3",
+    "postcss": "5.0.21",
+    "postcss-loader": "0.9.1",
+    "postcss-simple-vars": "1.2.0",
+    "precss": "1.4.0",
+    "react": "15.0.1",
+    "spectrum-colorpicker": "1.8.0",
+    "webpack": "1.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Coady",
+  "license": "ISC"
+}
